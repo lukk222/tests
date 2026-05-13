@@ -6,7 +6,7 @@
 Dieses Projekt wurde rein zu Bildungszwecken und für die Sicherheitsforschung auf Altsystemen (Windows 2000, ReactOS, NT 4.0) entwickelt. Es zeigt, wie ungeschützt GDI-Ressourcen und der Master Boot Record (MBR) in älteren Windows-Architekturen sind.
 
 ## Funktionen
-* 22 Phasen intensives GDI-Grafikchaos
+* 20 Phasen intensives GDI-Grafikchaos
 * Asynchrone WAV-Audio-Wiedergabe im Hintergrund (CRT-frei)
 * Überschreibt Sektor 0 (MBR) mit einem benutzerdefinierten 16-Bit Real-Mode Bootloader
 * Erzwingt nach 4:42 Minuten einen IRQL_NOT_LESS_OR_EQUAL Bluescreen via NtRaiseHardError
